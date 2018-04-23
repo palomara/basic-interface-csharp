@@ -1,0 +1,7 @@
+F:\gitrepositorios\interface-csharp\CalculoMedia\CalculoMedia\bin\Debug\CalculoMedia.exe
+F:\gitrepositorios\interface-csharp\CalculoMedia\CalculoMedia\bin\Debug\CalculoMedia.pdb
+F:\gitrepositorios\interface-csharp\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.frmMedia.resources
+F:\gitrepositorios\interface-csharp\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.Properties.Resources.resources
+F:\gitrepositorios\interface-csharp\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.csproj.GenerateResource.Cache
+F:\gitrepositorios\interface-csharp\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.exe
+F:\gitrepositorios\interface-csharp\CalculoMedia\CalculoMedia\obj\x86\Debug\CalculoMedia.pdb
