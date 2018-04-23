@@ -1,0 +1,7 @@
+F:\gitrepositorios\interface-csharp\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe
+F:\gitrepositorios\interface-csharp\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.pdb
+F:\gitrepositorios\interface-csharp\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\CalculadoraBasica.fmPrincipal.resources
+F:\gitrepositorios\interface-csharp\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\CalculadoraBasica.Properties.Resources.resources
+F:\gitrepositorios\interface-csharp\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\CalculadoraBasica.csproj.GenerateResource.Cache
+F:\gitrepositorios\interface-csharp\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\CalculadoraBasica.exe
+F:\gitrepositorios\interface-csharp\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\CalculadoraBasica.pdb
